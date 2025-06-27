@@ -1,0 +1,17 @@
+[theme]
+background = "#2E3440"           # nord0
+primary = "#D8DEE9"              # nord4
+secondary = "#88C0D0"            # nord8 (close to #8FBCBB, adapted for balance)
+title = "#8FBCBB"                # nord9
+playing = "#5E81AC"              # nord7
+playing_selected = "#8FBCBB"     # nord6
+playing_bg = "#434C5E"           # nord1 (matches cursor_text_color / base highlight bg)
+highlight = "#8FBCBB"            # nord14 (a soft green from the nord palette)
+highlight_bg = "#434C5E"         # nord3 (used in selection background)
+error = "#BF616A"                # nord11
+error_bg = "#3B4252"             # nord1 (for subdued error bg, not too bright)
+statusbar = "#8FBCBB"            # nord2 (less dark than #000)
+statusbar_progress = "#81A1C1"   # nord9 (blue progress)
+statusbar_bg = "#2E3440"         # nord0
+cmdline = "#EBCB8B"              # nord13 (yellow/gold for visibility)
+cmdline_bg = "#434C5E"           # nord3
